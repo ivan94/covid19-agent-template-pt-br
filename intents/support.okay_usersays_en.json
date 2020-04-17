@@ -1,0 +1,62 @@
+[
+  {
+    "id": "9349b3dc-fd3b-4b48-ac95-ffde3270b77e",
+    "data": [
+      {
+        "text": "Okay.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dd6f5c80-ebd5-41e9-b171-af5a3601a5d8",
+    "data": [
+      {
+        "text": "Tell more about COVID-19?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2ff9123b-fae4-48d3-aaf1-0b2d84ec66e2",
+    "data": [
+      {
+        "text": "got it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "74af4a9d-8c0a-468f-9637-63f90dbf9f9a",
+    "data": [
+      {
+        "text": "ok",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "be6c60a6-918f-4bac-aa7f-5fffd32eacb6",
+    "data": [
+      {
+        "text": "okay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
