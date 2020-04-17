@@ -1,0 +1,52 @@
+[
+  {
+    "value": "ciclismo",
+    "synonyms": [
+      "ciclismo",
+      "bicicleta",
+      "andar de bicicleta"
+    ]
+  },
+  {
+    "value": "caminhar",
+    "synonyms": [
+      "caminhar",
+      "caminhada",
+      "correr",
+      "corrida"
+    ]
+  },
+  {
+    "value": "andar cachorro",
+    "synonyms": [
+      "andar cachorro",
+      "andar com o cachorro",
+      "passear com o cachorro"
+    ]
+  },
+  {
+    "value": "exercicio",
+    "synonyms": [
+      "exercicio",
+      "exercicios",
+      "exercitar",
+      "malhar",
+      "treinar"
+    ]
+  },
+  {
+    "value": "parque",
+    "synonyms": [
+      "parque",
+      "parques",
+      "praça"
+    ]
+  },
+  {
+    "value": "futebol",
+    "synonyms": [
+      "futebol",
+      "pelada"
+    ]
+  }
+]

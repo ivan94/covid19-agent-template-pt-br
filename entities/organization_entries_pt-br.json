@@ -1,0 +1,52 @@
+[
+  {
+    "value": "escolas",
+    "synonyms": [
+      "escolas",
+      "faculdades",
+      "universidades",
+      "creches",
+      "escola",
+      "colégios"
+    ]
+  },
+  {
+    "value": "restaurantes",
+    "synonyms": [
+      "restaurantes",
+      "restaurante",
+      "bares",
+      "lanchonetes"
+    ]
+  },
+  {
+    "value": "mercados",
+    "synonyms": [
+      "mercados",
+      "supermercados",
+      "super mercados",
+      "ViaBrasil",
+      "Carrefour",
+      "supermecados BH",
+      "pão de açucar",
+      "walmart"
+    ]
+  },
+  {
+    "value": "hospitais",
+    "synonyms": [
+      "hospitais",
+      "hospital"
+    ]
+  },
+  {
+    "value": "farmácias",
+    "synonyms": [
+      "farmácias",
+      "farmácia",
+      "Araújo",
+      "Drogasil",
+      "Venâncio"
+    ]
+  }
+]
